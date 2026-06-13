@@ -392,17 +392,3 @@ This project builds directly on the following research:
 - Real food delivery dataset (Delivery Hero DHRD) as second benchmark
 
 ---
-
-## Author
-
-**Tanishq** · [GitHub: 02tanishq](https://github.com/02tanishq) · [HuggingFace: Yellow02](https://huggingface.co/Yellow02)
-
-Built as a summer AI/ML project. Part of a personal challenge: one production-quality AI/ML project every 10 days.
-
----
-
-## License
-
-MIT License. See `LICENSE` for details.
-
-Dataset license: Instacart dataset is provided under the [Instacart Online Grocery Shopping Dataset 2017](https://www.kaggle.com/competitions/instacart-market-basket-analysis) terms. Do not redistribute the raw data files.
